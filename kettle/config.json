@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "notice": {
-    "enabled": false,
-    "id": null,
-    "text": {},
-    "url": null
+    "enabled": true,
+    "id": "2026-10-05-test",
+    "text": { "en": "Test notice: this is a banner test from the Kettle developer." },
+    "url": "https://the-lazynyang.github.io/kettle/#support"
   },
   "fetchDisabled": false,
   "privacyPolicyURL": "https://the-lazynyang.github.io/kettle/privacy/"
